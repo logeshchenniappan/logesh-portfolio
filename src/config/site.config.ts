@@ -18,7 +18,7 @@ export const siteConfig: Site = {
   ogImage: "https://rdsx.dev/og.png",
   links: {
     x: "https://x.com/logesh__C",
-    github: "https://github.com/logeshchenniappan",
+    github: "https://github.com/chenniappanlogesh",
     linkedin: "https://www.linkedin.com/in/logeshchenniappan/",
   }
 }

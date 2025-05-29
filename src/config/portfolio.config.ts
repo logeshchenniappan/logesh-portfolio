@@ -8,7 +8,7 @@ export const portfolioConfig: Portfolio = {
     github: "https://github.com/logeshchenniappan",
     twitter: "https://x.com/logesh__c",
     mail: "mailto:logeshc17@gmail.com",
-    discord: "https://discordapp.com/users/841126921886498817",
+    discord: "https://discordapp.com/users/clogesh",
     linkedin: "https://linkedin.com/in/logeshchenniappan",
   }
 }
