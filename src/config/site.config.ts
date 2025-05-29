@@ -19,5 +19,6 @@ export const siteConfig: Site = {
   links: {
     x: "https://x.com/logesh__C",
     github: "https://github.com/logeshchenniappan",
+    linkedin: "https://www.linkedin.com/in/logeshchenniappan/",
   }
 }

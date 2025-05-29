@@ -2,11 +2,11 @@ import type { Experience } from "@/types";
 
 export const experiencesConfig: Experience[] = [
   {
-    title: "Software Engineer",
-    employmentType: "Part-time",
+    title: "Senior Associate",
+    employmentType: "Full time",
     company: {
-      name: "Radical Health",
-      url: "https://radicalhealth.care",
+      name: "City Union Bank",
+      url: "https://www.cityunionbank.com",
     },
     location: {
       name: "Remote",
