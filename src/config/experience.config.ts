@@ -9,10 +9,10 @@ export const experiencesConfig: Experience[] = [
       url: "https://www.cityunionbank.com",
     },
     location: {
-      name: "Remote",
+      name: "Tamilnadu",
     },
-    start: "April 2025",
-    end: "Continuing",
+    start: "Nov 2024",
+    end: "Feb 2025",
     description: [
       "Maintaining the ME&T Platform",
       "Building new features for the platform",
@@ -20,17 +20,17 @@ export const experiencesConfig: Experience[] = [
     ],
   },
   {
-    title: "Software Engineer",
-    employmentType: "Full time",
+    title: "Management Trainee - Operations",
+    employmentType: "Internship",
     company: {
-      name: "Radical Health",
-      url: "https://radicalhealth.care",
+      name: "Genpact",
+      url: "https://genpact.com",
     },
     location: {
-      name: "Remote",
+      name: "Bengaluru",
     },
-    start: "August 2024",
-    end: "April 2025",
+    start: "Jan 2024",
+    end: "Jun 2024",
     description: [
       "Built ME&T Platform thats operational on production",
       "Realtime AI orchestration pipeline development",
