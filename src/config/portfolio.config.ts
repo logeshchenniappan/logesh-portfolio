@@ -1,14 +1,14 @@
 import type { Portfolio } from "@/types";
 
 export const portfolioConfig: Portfolio = {
-  name: "Rudro Dip Sarker",
+  name: "Logesh C",
   tagline: "I gaslight rocks 🪨 to think 🧠",
   resume: "https://drive.google.com/file/d/1maKM3isLbHN7IKbHKGorxXkkoFf5Sqfv/view?usp=sharing",
   links: {
-    github: "https://github.com/rudrodip",
-    twitter: "https://x.com/rds_agi",
-    mail: "mailto:official.rudrodipsarker@gmail.com",
+    github: "https://github.com/logeshchenniappan",
+    twitter: "https://x.com/c__logesh",
+    mail: "mailto:logeshc17@gmail.com",
     discord: "https://discordapp.com/users/841126921886498817",
-    linkedin: "https://linkedin.com/in/rudrodip",
+    linkedin: "https://linkedin.com/in/logeshchenniappan",
   }
 }
