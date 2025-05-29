@@ -8,7 +8,7 @@ export const siteConfig: Site = {
     "Logesh C",
     "Logesh Chenniappan",
     "Logesh",
-    "Data Analyst",,
+    "Data Analyst",
   ],
   siteUrl: "https://logeshc.com",
   creator: {
